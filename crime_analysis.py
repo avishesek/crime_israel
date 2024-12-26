@@ -108,7 +108,8 @@ def plotcrimeyearly(df, st):
     plt.yticks(fontsize=10)
     plt.tight_layout()
     # Save the graph to the project folder
-    # plt.savefig('yearly_graph_'+st+'.png')
+    # st_name = st.replace(" ", "_") # remove the hash to save on your PC
+    # plt.savefig('yearly_graph_'+st_name+'.png') # remove the hash to save on your PC
     # Show the plot
     plt.show()
 
@@ -158,7 +159,8 @@ def plotcrime(df, st):
     plt.legend(title='Government', fontsize=10, loc='upper left')
     plt.tight_layout()
     # Save the graph to the project folder
-    # plt.savefig('quarterly_graph_' + st + '.png')
+    # st_name = st.replace(" ", "_") # remove the hash to save on your PC
+    # plt.savefig('quarterly_graph_' + st_name + '.png') # remove the hash to save on your PC
     # Show the plot
     plt.show()
 
