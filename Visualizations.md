@@ -4,49 +4,49 @@ In this file, the five graphs that were analytically examined are presented, whe
 
 yearly
 
-![yearly](graphs\yearly_graph_Crimes.png)
+![yearly](graphs/yearly_graph_Crimes.png)
 
 quarterly
 
-![quarterly](graphs\quarterly_graph_Crimes.png)
+![quarterly](graphs/quarterly_graph_Crimes.png)
 
 
 2. **Crimes against human life.**
 
 yearly
 
-![yearly](graphs\yearly_graph_Crime Against Human Life.png)
+![yearly](graphs/yearly_graph_Crime_Against_Human_Life.png)
 
 quarterly
 
-![quarterly](graphs\quarterly_graph_Crime Against Human Life.png)
+![quarterly](graphs/quarterly_graph_Crime_Against_Human_Life.png)
 
 3. **Murder cases.**
 
 yearly
 
-![yearly](graphs\yearly_graph_Morders.png)
+![yearly](graphs/yearly_graph_Morders.png)
 
 quarterly
 
-![quarterly](graphs\quarterly_graph_Morders.png)
+![quarterly](graphs/quarterly_graph_Morders.png)
 
 4. **Death cases (including murder, manslaughter, etc.).**
 
 yearly
 
-![yearly](graphs\yearly_graph_Death.png)
+![yearly](graphs/yearly_graph_Death.png)
 
 quarterly
 
-![quarterly](graphs\quarterly_graph_Deaths.png)
+![quarterly](graphs/quarterly_graph_Deaths.png)
 
 5. **Murders due to terrorism** 
 
 yearly
 
-![yearly](graphs\yearly_graph_Morders from Acts Of Terrorism.png)
+![yearly](graphs/yearly_graph_Morders_from_Acts_Of_Terrorism.png)
 
 quarterly
 
-![quarterly](graphs\quarterly_graph_Morders from Acts Of Terrorism.png)
+![quarterly](graphs/quarterly_graph_Morders_from_Acts_Of_Terrorism.png)
